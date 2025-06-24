@@ -26,3 +26,4 @@ where id is not null
 */
 
 -- where id is not null
+-- fix null test issue
